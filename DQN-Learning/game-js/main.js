@@ -274,7 +274,7 @@ importBtn.addEventListener('change', async (e) => {
     try {
         model = await tf.loadLayersModel(tf.io.browserFiles([jsonFile, weightsFile]));
 
-        visuaalizationModel = tf.model({
+        visualizationModel = tf.model({
             inputs: model.inputs,
             outputs: model.layers[1].output
         });
