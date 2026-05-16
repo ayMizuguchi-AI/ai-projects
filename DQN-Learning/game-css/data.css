@@ -1,0 +1,122 @@
+.data-control {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+
+    width: 30%;
+    height: 90%;
+
+    container-type: size;
+}
+.data-control button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin-left: -5cqw;
+    width: 60cqh;
+    height: 60cqh;
+
+    font-size: 15cqh;
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 0.2);
+    color: aquamarine;
+    border: 2cqh solid aquamarine;
+    
+    z-index: 10;
+
+    transition: all 0.5s ease;
+}
+.data-control button:hover {
+    color: rgb(60, 255, 135);
+    border: 2cqh solid rgb(60, 255, 135);
+    box-shadow: 0 0 3cqh rgb(60, 255, 135);
+    background-color: rgba(60, 255, 135, 0.2);
+}
+
+.data-menu {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3cqh;
+
+    width: 30%;
+    height: 50%;
+    background-color: rgba(50, 50, 50, 0.7);
+
+    z-index: 10;
+
+    container-type: size;
+}
+
+.data-menu button, .data-menu label {
+    font-size: 5cqh;
+    
+    width: 50cqw;
+    padding: 1cqw 0;
+
+    background: none;
+    color: aqua;
+    border: 0.5cqw solid aqua;
+    text-align: center;
+    
+    transition: all 0.5s ease;
+}
+.data-menu button:hover, .data-menu label:hover {
+    
+    color: rgb(185, 255, 255);
+    border: 0.5cqw solid rgb(185, 255, 255);
+}
+.data-menu .close {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+
+    width: auto;
+    padding: 0 3cqw;
+
+    color: rgb(255, 168, 133);
+    border: 0.5cqw solid rgb(255, 168, 133);
+}
+
+.data-hidden {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s;
+}
+.data-active {
+    opacity: 1;
+    visibility: visible;
+}
+
+#overlay {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    z-index: 5;
+}
+
+.hop-up {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    font-size: 1.5rem;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 0.3% 1%;
+    border-radius: 5px;
+}

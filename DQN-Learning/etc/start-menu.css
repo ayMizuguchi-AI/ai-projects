@@ -1,0 +1,134 @@
+.start-menu {
+    width: 100vw;
+    height: 100vh;
+
+    font-family: 'Noto Sans JP', sans-serif;
+
+    background-color: rgb(254, 255, 254);
+    background-image: linear-gradient(rgba(0, 255, 255, 0.05) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(0, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 50px 50px;
+
+    container-type:inline-size;
+}
+h2 {
+    text-align: center;
+    font-size: 2cqh;
+    padding: 1cqh;
+    color: rgb(204, 216, 216);
+}
+hr {
+    width: 20%;
+    margin: 0 auto;
+    border: none;
+    background-color: rgb(204, 216, 216);
+    height: 1px;
+}
+.start-menu-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.start-menu ul {
+    list-style: none;
+    text-align: center;
+}
+.start-menu li {
+    margin: 5cqh;
+}
+.start-menu li * {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.start-menu button {
+    width: 70cqh;
+    height: 15cqh;
+    font-size: 7cqh;
+
+    appearance: none;
+    border: none;
+    cursor: pointer;
+
+    background-color: rgb(189, 255, 233);
+}
+.start-menu-btn {
+    width: 99%;
+    height: 95%;
+    background-color: rgb(226, 255, 246);
+
+    color: rgb(238, 254, 249);
+    text-shadow:
+    0 0 3cqh aquamarine,
+    0 0 10cqh rgba(0, 0, 0, 0.8);
+
+    position: relative; /* 擬似要素の基準にする */
+    overflow: hidden;    /* はみ出る光を隠す */
+    transition: all 0.5s ease;
+}
+
+.start-menu button, .start-menu-btn {
+    clip-path: polygon(
+    10% 0%,
+    90% 0%,
+    100% 48%,
+    100% 52%,
+    90% 100%,
+    10% 100%,
+    0% 52%,
+    0% 48%
+  );
+}
+#startMenuBtn2 {
+    filter: hue-rotate(40deg);
+}
+#startMenuBtn3 {
+    filter: hue-rotate(150deg);
+}
+
+.start-menu button:hover .start-menu-btn {
+  color: rgb(245, 255, 252);
+  text-shadow:
+  0 0 3cqh rgb(209, 255, 240),
+  0 0 10cqh rgba(0, 0, 0, 0.8);
+  background-color: rgb(195, 255, 236);
+  transform: scale(1.03);
+}
+/* スキャンライン本体 */
+.start-menu-btn::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -100%; /* 最初は左側に隠しておく */
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.4), /* 光の色 */
+        transparent
+    );
+    transform: skewX(-20deg); /* 斜めにする */
+    transition: none;
+
+    animation: start-menu-btn-animation 3s ease-in-out infinite;
+}
+
+/* ホバー時に左から右へ */
+.start-menu button:hover .start-menu-btn::after {
+    left: 100%;
+    transition: left 0.3s ease-in-out;
+}
+
+@keyframes start-menu-btn-animation {
+    0% {
+        left: -100%;
+    }
+    20% {
+        left: 100%;
+    }
+    100% {
+        left: 100%;
+    }
+}
+

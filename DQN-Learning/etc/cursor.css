@@ -1,0 +1,55 @@
+*, *::before, *::after,
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    cursor: none !important;
+}
+#startMenuCursorSf,
+#startMenuCursorLight {
+    position: fixed;
+    top: 0; left: 0;
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: background 0.1s ease;
+
+    opacity: 0;/* マウスがウィンドウ内に入るまで非表示 */
+}
+body.mouse-in #startMenuCursorSf,
+body.mouse-in #startMenuCursorLight {
+    opacity: 1;
+    transition: opacity 0.1s ease;
+}
+/* 中心の光 */
+#startMenuCursorSf {
+    width: 15px; height: 15px;
+    background: aqua;
+    box-shadow: 0 0 15px aqua;
+    z-index: 10000;
+    transition: opacity 0.3s ease;
+}
+/* 周りの光 */
+#startMenuCursorLight {
+    width: 250px; height: 250px;
+    background: radial-gradient(circle, rgba(0, 242, 255, 0.15) 0%, rgba(0, 242, 255, 0) 70%);
+    z-index: 1;
+    will-change: transform;
+    transition: opacity 3s ease;
+}
+
+/* ホバー時 */
+.cursor-hover #startMenuCursorSf {
+    background: rgb(0, 208, 255);
+    box-shadow: 0 0 20px rgb(0, 208, 255);
+}
+.cursor-hover #startMenuCursorLight {
+    background: radial-gradient(circle, rgba(0, 208, 255, 0.15) 0%, rgba(0, 208, 255, 0) 70%);
+}
+
+/* クリック時 */
+.cursor-active #startMenuCursorSf {
+    background: rgb(136, 255, 255);
+    box-shadow: 0 0 20px rgb(136, 255, 255);
+}
+.cursor-active #startMenuCursorLight {
+    background: radial-gradient(circle, rgba(136, 255, 255, 0.12) 0%, rgba(136, 255, 255, 0) 70%);
+}

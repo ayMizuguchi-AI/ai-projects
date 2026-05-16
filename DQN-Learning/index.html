@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ブロック崩し</title>
+    <link rel="stylesheet" href="etc/cursor.css">
+
+    <link rel="stylesheet" href="etc/start-menu.css">
+    <link rel="stylesheet" href="etc/svg.css">
+    
+    <link rel="stylesheet" href="game-css/main.css">
+    <link rel="stylesheet" href="game-css/monitor.css">
+    <link rel="stylesheet" href="game-css/control.css">
+    <link rel="stylesheet" href="game-css/speed.css">
+    <link rel="stylesheet" href="game-css/epsilon.css">
+    <link rel="stylesheet" href="game-css/neuron.css">
+    <link rel="stylesheet" href="game-css/menu.css">
+    <link rel="stylesheet" href="game-css/data.css">
+</head>
+
+<body>
+    <!-- カーソルデザイン -->
+    <div id="startMenuCursorSf"></div>
+    <div id="startMenuCursorLight"></div>
+    <!-- メニュー画面 -->
+    <div id="startMenu" class="start-menu">
+        <svg viewBox="0 0 800 150"><!-- 目盛りの数 -->
+
+            <!-- グラデーション -->
+            <defs>
+                <linearGradient id="myGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                    <stop offset="0%" style="stop-color:#31f5ff; stop-opacity:1" />
+                    <stop offset="100%" style="stop-color:#5136ff; stop-opacity:1" />
+                </linearGradient>
+            </defs>
+            
+            <!-- 本体の文字 -->
+            <text x="50%" y="70%" class="text-group">DQN学習</text>
+            <!-- 文字の光 -->
+            <g class="text-group">
+                <text x="220" y="70%" class="title-pulse-text pulse1">D</text>
+                <text x="300" y="70%" class="title-pulse-text pulse2">Q</text>
+                <text x="380" y="70%" class="title-pulse-text pulse3">N</text>
+                <text x="470" y="70%" class="title-pulse-text pulse4">学</text>
+                <text x="570" y="70%" class="title-pulse-text pulse5">習</text>
+            </g>
+        </svg>
+        <h2>Deep Q-Network</h2>
+        <hr>
+        <div class="start-menu-items"><ul>
+            <li><button class="clickable" id="startMenuBtn1"><div class="start-menu-btn">Game Start</div></button></li>
+            <li><button class="clickable" id="startMenuBtn2"><div class="start-menu-btn">遊ばせ方</div></button></li>
+            <li><button class="clickable" id="startMenuBtn3"><div class="start-menu-btn">DQN学習解説</div></button></li>
+        </ul></div>
+    </div>
+
+    <!-- ゲーム画面 -->
+    <div id="main" class="main is-hidden">
+        <!-- コントロールパネル -->
+        <div class="control-panel">
+            <div class="situation">
+                <p>状況</p>
+                <div class="control-item">
+                    <p>バー</p>
+                    <div class="items">
+                        <span>小</span>
+                        <input id="paddleWidth" class="clickable" type="range" max="100" min="0" step="1" value="50">
+                        <span>大</span>
+                    </div>
+                    <div class="items">
+                        <span>遅</span>
+                        <input id="paddleSpeed" class="clickable" type="range" max="100" min="0" step="1" value="50">
+                        <span>速</span>
+                    </div>
+                </div>
+                <div class="control-item">
+                    <p>ボール</p>
+                    <div class="items">
+                        <span>小</span>
+                        <input id="ballSize" class="clickable" type="range" max="100" min="0" step="1" value="8">
+                        <span>大</span>
+                    </div>
+                    <div class="items">
+                        <span>遅</span>
+                        <input id="ballSpeed" class="clickable" type="range" max="100" min="0" step="1" value="12">
+                        <span>速</span>
+                    </div>
+                </div>
+                <!-- <div class="control-item">　重力
+                    <p>Gravity</p>
+                    <div class="items">
+                        <label><input type="radio" name="gravity" checked><span>無重力</span></label>
+                        <label><input id="gravity" type="radio" name="gravity"><span>重力</span></label>
+                    </div>
+                </div> -->
+            </div>
+            <div class="perspnality">
+                <p>性格</p>
+                <form id="perspnalityF">
+                    <div class="control-item">
+                        <p>割引率Gamma</p>
+                        <div class="items">
+                            <span>目先</span>
+                            <input id="gamma" class="clickable" type="range" max="100" min="0" step="1" value="81.5">
+                            <span>未来</span>
+                        </div>
+                    </div>
+                    <div class="control-item">
+                        <p>学習率Learning Rate</p>
+                        <div class="items">
+                            <span>素直</span>
+                            <input id="learningRate" class="clickable" type="range" max="100" min="0" step="1" value="50">
+                            <span>慎重</span>
+                        </div>
+                    </div>
+                </form>
+                <div class="reset-btn"><input type="reset" form="perspnalityF" id="perspnalityResetBtn" class="clickable" value="リセット"></div>
+                <div class="control-item">
+                    <p>報酬Reward</p>
+                    <form id="RewardF">
+                        <div class="items rewards">
+                            <span>時間</span><input id="rewardInput1" type="number" value="0" class="reward">
+                            <span>落下</span><input id="rewardInput2" type="number" value="-2" class="reward">
+                            <span>破壊</span><input id="rewardInput3" type="number" value="1" class="reward">
+                            <span>打返</span><input id="rewardInput4" type="number" value="0.5" class="reward">
+                            <span>全消</span><input id="rewardInput5" type="number" value="5" class="reward">
+                        </div>
+                    </form>
+                </div>
+                <div class="reward-btn">
+                    <div class="reset-btn"><input type="reset" form="RewardF" id="rewardResetBtn" class="clickable" value="リセット"></div>
+                    <div class="reset-btn"><input type="button" id="rewardUpdateBtn" class="clickable" value="更新"></div>
+                </div>
+            </div>
+        </div>
+        <!-- ブロック崩し画面 -->
+        <div class="game">
+            <canvas id="gameCanvas" width="400" height="400"></canvas>
+            <p>Deep Q-Network</p>
+        </div>
+        <!-- イプシロン率 -->
+        <div class="epsilon">
+            <p class="epsilon-title">epsilon</p>
+            <input type="range" class="clickable epsilon-range" value="100" min="0" max="100" id="epsilonRange" step="1">
+            <div class="bar-percent"><p>100%</p><p>50%</p><p>0%</p></div>
+            <p class="epsilon-percent" id="epsilonPercent">100%</p>
+            <!-- <label class="epsilon-check"><input type="checkbox" id="epsilonFix"><p>固定</p></label> -->
+            <div class="epsilon-speed">
+                <input type="range" id="epsilonFix" class="clickable" max="3" min="0" step="1" value="1">
+                <ul>
+                    <li>高速</li>
+                    <li>中速</li>
+                    <li>低速</li>
+                    <li>固定</li>
+                </ul>
+            </div>
+        </div>
+        <!-- ニューロン -->
+        <div class="neuron">
+            <p>ニューロンモニター</p>
+            <canvas class="neuron-canvas-hidden" id="neuronCanvasHidden"></canvas>
+            <canvas class="neuron-canvas-output" id="neuronCanvasOutput"></canvas>
+            <div class="neuron-select">
+                <div class="neuron-left"><p>Left</p><p class="neuron-value" id="neuronLeftValue">0</p></div>
+                <div class="neuron-stay"><p>Stay</p><p class="neuron-value" id="neuronStayValue">0</p></div>
+                <div class="neuron-right"><p>Right</p><p class="neuron-value" id="neuronRightValue">0</p></div>
+            </div>
+        </div>
+        <!-- データ管理 -->
+        <div class="data-control">
+            <button class="clickable" id="dataControlBtn">データ</button>
+        </div>
+        <div class="data-menu data-hidden" id="dataMenu">
+            <button class="clickable close" id="closeBtn">×</button>
+            <button class="clickable" id="saveBtn">セーブ</button>
+            <button class="clickable" id="loadBtn">ロード</button>
+            <label><input type="file" class="clickable" id="importBtn" multiple style="display: none;">インポート</label>
+            <button class="clickable" id="exportBtn">エクスポート</button>
+            <button class="clickable" id="nnResetBtn">リセット</button>
+        </div>
+        <div class="data-hidden" id="overlay"></div>
+        <div class="hop-up data-hidden" id="hopUp">セーブしました</div>
+        <!-- スピードパネル -->
+        <div class="speed-panel-border"><div class="speed-panel"><div class="speed-panel-shadow">
+            <div class="percent-border"><div class="percent">
+                <div class="v"><span id="speedDisplay">100%</span></div>
+                <div class="l"><span>speed</span></div>
+            </div></div>
+            <button class="clickable speed-btn-border"><div class="speed-btn"><span>1x</span></div></button>
+            <button class="clickable speed-btn-border"><div class="speed-btn"><span>2x</span></div></button>
+            <button class="clickable speed-btn-border"><div class="speed-btn"><span>5x</span></div></button>
+            <button class="clickable speed-btn-border"><div class="speed-btn"><span>10x</span></div></button>
+            <button class="clickable speed-btn-border"><div class="speed-btn"><span>100x</span></div></button>
+        </div></div></div>
+        <!-- メニュー -->
+        <div class="menu">
+            <ul>
+                <li><button id="startBtn" class="clickable">スタート</button></li>
+                <li><button id="stopBtn" class="clickable">ストップ</button></li>
+                <li><button id="endBtn" class="clickable">終了</button></li>
+            </ul>
+        </div>
+    </div>
+    <script src="etc/cursor.js"></script>
+
+    <script src="lib/tf.min.js"></script>
+    <script src="game-js/ai.js"></script>
+    <script src="game-js/game.js"></script>
+    <script src="game-js/main.js"></script>
+</body>
+</html>

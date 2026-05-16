@@ -1,0 +1,93 @@
+body {
+  background-color: rgb(254, 255, 254);
+  background-image: linear-gradient(rgba(0, 255, 255, 0.05) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(0, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+  color: rgb(109, 215, 179);
+  text-shadow: 0 0 20px rgb(99, 255, 255);
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.main {
+  zoom: 0.6;
+  transform-origin: top;
+  box-shadow: 0 0 10px aquamarine;
+  margin: 20px;
+}
+
+.highlight {
+  box-shadow: 0 0 3px aqua;
+  filter: brightness(0.5);
+  transition: filter 0.5s;
+}
+
+.highlight:hover {
+  filter: brightness(1.5);
+}
+.lowlight {
+  filter: brightness(0.5);
+}
+
+.container{
+  width: 90%;
+  height: 60%;
+  max-width: 800px;
+  margin-top: 20px;
+}
+.text-container {
+  width: 100%;
+  padding: 20px;
+  min-height: 150px;
+  background-color: rgba(0, 242, 255, 0.05);
+  box-shadow: 0 0 20px rgba(0, 242, 255, 0.1);
+  border-left: 4px solid aquamarine;
+  font-size: 1.6rem;
+  line-height: 1.5;/* 行間 */
+  position: relative;
+  white-space: pre-wrap;/* 自動改行 */
+  animation: BLeft 20s infinite;
+  transition: all 1s;
+}
+@keyframes BLeft {
+  0%, 45%, 70%, 100% {border-left-color: aquamarine;}
+  50% {border-left-color: rgba(127, 255, 212, 0.3);}
+}
+.text-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(52, 50, 50, 0) 50%, rgba(20, 20, 20, 0.01) 50%),/* 縞模様 */
+              linear-gradient(90deg, rgba(255, 0, 0, 0.03),rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));/* 薄く3色 */
+  background-size: 100% 4px, 3px 100%;/* 横シマ4px 縦シマ3px */
+  pointer-events: none;/* マウスの影響を受けなくなる */
+}
+.text-container::after {
+  content: "|";
+  font-size: 2rem;
+  animation: blink 0.8s infinite;/* 0.8秒間隔で点滅 */
+}
+@keyframes blink {
+  50% { opacity: 0;}/* 透明不透明を交互に */
+}
+
+
+
+
+/* アニメーション中 */
+.text-container.is-processing {
+  color: rgb(0, 204, 204);
+  border-left-color: aqua;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.469);
+  animation: processing-blink 10s infinite;
+}
+
+@keyframes processing-blink {
+  0%, 100% { border-left-color: #00ffff; }
+  50% { border-left-color: #ffffff; }
+}

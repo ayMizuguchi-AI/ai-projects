@@ -1,0 +1,53 @@
+svg {
+    width: 100%;
+    height: 25%;
+}
+
+/* ベースの文字 */
+.text-group {
+    font-size: 90px;
+    font-weight: 900;
+    /* stroke: rgb(0, 69, 94);
+    stroke-width: 1px; */
+    stroke-linejoin: round;
+    letter-spacing: 12px;
+    fill: url(#myGradient);
+    text-anchor: middle;
+    filter: drop-shadow(0 0 10px rgb(176, 190, 193));
+
+    /* paint-order: stroke fill; */
+}
+
+/* 光 */
+.title-pulse-text{
+    fill: none;
+    stroke: aqua;
+    stroke-width: 3;
+    stroke-linecap: butt;
+    stroke-dasharray: 100 400;/* 線の間隔 */
+    stroke-dashoffset: 450;/* 線の開始位置 */
+    filter: drop-shadow(0 0 10px aqua);
+    
+    opacity: 0;
+    animation: pulse 4s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        stroke-dashoffset: 500;
+        opacity: 0;
+    }
+    5% {
+        opacity: 1;
+    }
+    30% {
+        stroke-dashoffset: 0;
+        opacity: 0;
+    }
+}
+
+.pulse1 { animation-delay: 0.0s;}
+.pulse2 { animation-delay: 0.2s;}
+.pulse3 { animation-delay: 0.4s;}
+.pulse4 { animation-delay: 0.6s;}
+.pulse5 { animation-delay: 0.8s;}

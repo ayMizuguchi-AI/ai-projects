@@ -1,0 +1,50 @@
+.menu {
+    grid-column: 2 / 4;
+    grid-row: 2 / 3;
+
+    text-align: center;
+    
+    margin: 0 10px 0 auto;
+
+    background-color: rgba(50, 50, 50, 0.8);
+    box-shadow: 0 0 0.3cqw aqua;
+    width: 20%;
+    height: 80%;
+    border-radius: 0.5cqw;
+
+    display: flex;
+    flex-direction: column;
+
+    container-type: inline-size;
+}
+
+.menu ul {
+    list-style: none;
+
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.menu button {
+    background: none;
+    border: none;
+    appearance: none;
+    cursor: pointer;
+
+    margin: 1cqw 5cqw;
+
+    color: aquamarine;
+    font-size: 10cqw;
+    text-shadow: 0 0 0cqw rgb(194, 255, 235)!important;
+    /* border: 0.1cqw solid aquamarine; */
+    /* border-radius: 1cqw; */
+    padding: 1cqw;
+    /* box-shadow: 0 0 1cqw rgb(194, 255, 235); */
+}
+.menu button:hover {
+    color: rgb(230, 255, 247);
+    text-shadow: 0 0 10cqw rgb(194, 255, 235)!important;
+}
