@@ -1,0 +1,3334 @@
+[
+  {
+    "user_id": "U001",
+    "recommendations": [
+      {
+        "product_id": "P033",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P048",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P014",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U003",
+    "recommendations": [
+      {
+        "product_id": "P030",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P050",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U004",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P050",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P032",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U005",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P083",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P052",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U006",
+    "recommendations": [
+      {
+        "product_id": "P099",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P093",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U007",
+    "recommendations": [
+      {
+        "product_id": "P067",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P030",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P050",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U008",
+    "recommendations": [
+      {
+        "product_id": "P023",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P021",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P068",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U009",
+    "recommendations": [
+      {
+        "product_id": "P080",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P058",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U010",
+    "recommendations": [
+      {
+        "product_id": "P077",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P095",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P007",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U011",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P050",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P002",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U012",
+    "recommendations": [
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P067",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P048",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U013",
+    "recommendations": [
+      {
+        "product_id": "P068",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P039",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P088",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U014",
+    "recommendations": [
+      {
+        "product_id": "P072",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P062",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P092",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U015",
+    "recommendations": [
+      {
+        "product_id": "P093",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P010",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P088",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U016",
+    "recommendations": [
+      {
+        "product_id": "P058",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P080",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P050",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U017",
+    "recommendations": [
+      {
+        "product_id": "P065",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P098",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P062",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U018",
+    "recommendations": [
+      {
+        "product_id": "P092",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P052",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U020",
+    "recommendations": [
+      {
+        "product_id": "P019",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P012",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U021",
+    "recommendations": [
+      {
+        "product_id": "P080",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P075",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U022",
+    "recommendations": [
+      {
+        "product_id": "P062",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P081",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P066",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U023",
+    "recommendations": [
+      {
+        "product_id": "P068",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P011",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U024",
+    "recommendations": [
+      {
+        "product_id": "P059",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P058",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U025",
+    "recommendations": [
+      {
+        "product_id": "P013",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P041",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P050",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U026",
+    "recommendations": [
+      {
+        "product_id": "P084",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P017",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P076",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U027",
+    "recommendations": [
+      {
+        "product_id": "P081",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P007",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P088",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U028",
+    "recommendations": [
+      {
+        "product_id": "P092",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P094",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P061",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U029",
+    "recommendations": [
+      {
+        "product_id": "P032",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P005",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U030",
+    "recommendations": [
+      {
+        "product_id": "P093",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P043",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U031",
+    "recommendations": [
+      {
+        "product_id": "P062",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P013",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U032",
+    "recommendations": [
+      {
+        "product_id": "P064",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P089",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U033",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P032",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U034",
+    "recommendations": [
+      {
+        "product_id": "P071",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P092",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P084",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U035",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P016",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U036",
+    "recommendations": [
+      {
+        "product_id": "P093",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P002",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P007",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U037",
+    "recommendations": [
+      {
+        "product_id": "P048",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P054",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P089",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U038",
+    "recommendations": [
+      {
+        "product_id": "P005",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P039",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P011",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U039",
+    "recommendations": [
+      {
+        "product_id": "P053",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P012",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P071",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U040",
+    "recommendations": [
+      {
+        "product_id": "P032",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P024",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U041",
+    "recommendations": [
+      {
+        "product_id": "P092",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P098",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U042",
+    "recommendations": [
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P020",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P038",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U043",
+    "recommendations": [
+      {
+        "product_id": "P048",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P021",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P017",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U044",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P016",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P048",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U045",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P045",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U046",
+    "recommendations": [
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P098",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P072",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U047",
+    "recommendations": [
+      {
+        "product_id": "P017",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P068",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P011",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U048",
+    "recommendations": [
+      {
+        "product_id": "P072",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P062",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P010",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U049",
+    "recommendations": [
+      {
+        "product_id": "P048",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P002",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P014",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U050",
+    "recommendations": [
+      {
+        "product_id": "P068",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P072",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P088",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U051",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P084",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P033",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U052",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P058",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P076",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U053",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P069",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P019",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U054",
+    "recommendations": [
+      {
+        "product_id": "P092",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P065",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U055",
+    "recommendations": [
+      {
+        "product_id": "P011",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U056",
+    "recommendations": [
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P070",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U057",
+    "recommendations": [
+      {
+        "product_id": "P004",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P041",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U058",
+    "recommendations": [
+      {
+        "product_id": "P088",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P095",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P039",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U059",
+    "recommendations": [
+      {
+        "product_id": "P012",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P062",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P071",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U060",
+    "recommendations": [
+      {
+        "product_id": "P093",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P032",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P031",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U061",
+    "recommendations": [
+      {
+        "product_id": "P027",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P062",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P033",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U062",
+    "recommendations": [
+      {
+        "product_id": "P068",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P061",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P048",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U063",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P007",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P096",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U064",
+    "recommendations": [
+      {
+        "product_id": "P020",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P019",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P094",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U065",
+    "recommendations": [
+      {
+        "product_id": "P058",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P020",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P042",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U066",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P024",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P026",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U067",
+    "recommendations": [
+      {
+        "product_id": "P080",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P089",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P036",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U068",
+    "recommendations": [
+      {
+        "product_id": "P088",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P012",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U070",
+    "recommendations": [
+      {
+        "product_id": "P083",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P051",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P085",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U071",
+    "recommendations": [
+      {
+        "product_id": "P039",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P049",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P007",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U072",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P065",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U073",
+    "recommendations": [
+      {
+        "product_id": "P023",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P043",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P039",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U074",
+    "recommendations": [
+      {
+        "product_id": "P079",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P082",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U075",
+    "recommendations": [
+      {
+        "product_id": "P048",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P020",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P027",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U076",
+    "recommendations": [
+      {
+        "product_id": "P042",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P016",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U077",
+    "recommendations": [
+      {
+        "product_id": "P014",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P089",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P092",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U078",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P013",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P020",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U079",
+    "recommendations": [
+      {
+        "product_id": "P099",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P089",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P094",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U080",
+    "recommendations": [
+      {
+        "product_id": "P064",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U081",
+    "recommendations": [
+      {
+        "product_id": "P005",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P062",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U082",
+    "recommendations": [
+      {
+        "product_id": "P012",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P076",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U083",
+    "recommendations": [
+      {
+        "product_id": "P092",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P042",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U084",
+    "recommendations": [
+      {
+        "product_id": "P062",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P014",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P064",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U085",
+    "recommendations": [
+      {
+        "product_id": "P064",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P050",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U086",
+    "recommendations": [
+      {
+        "product_id": "P032",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P030",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P093",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U087",
+    "recommendations": [
+      {
+        "product_id": "P062",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P052",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P007",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U088",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P049",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P075",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U089",
+    "recommendations": [
+      {
+        "product_id": "P079",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P032",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P067",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U090",
+    "recommendations": [
+      {
+        "product_id": "P001",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P048",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U091",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P080",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P068",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U092",
+    "recommendations": [
+      {
+        "product_id": "P023",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P052",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P089",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U093",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P074",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P012",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U094",
+    "recommendations": [
+      {
+        "product_id": "P023",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P067",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P042",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U095",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P048",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P093",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U096",
+    "recommendations": [
+      {
+        "product_id": "P079",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P036",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P062",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U097",
+    "recommendations": [
+      {
+        "product_id": "P092",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P084",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P023",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U098",
+    "recommendations": [
+      {
+        "product_id": "P080",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P020",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P083",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U099",
+    "recommendations": [
+      {
+        "product_id": "P011",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P019",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P084",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U100",
+    "recommendations": [
+      {
+        "product_id": "P013",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P023",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P016",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U101",
+    "recommendations": [
+      {
+        "product_id": "P083",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U102",
+    "recommendations": [
+      {
+        "product_id": "P079",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P059",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P076",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U103",
+    "recommendations": [
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P020",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P072",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U104",
+    "recommendations": [
+      {
+        "product_id": "P072",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U105",
+    "recommendations": [
+      {
+        "product_id": "P068",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P084",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P050",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U106",
+    "recommendations": [
+      {
+        "product_id": "P039",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P036",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P042",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U107",
+    "recommendations": [
+      {
+        "product_id": "P011",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P062",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U108",
+    "recommendations": [
+      {
+        "product_id": "P058",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P061",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P036",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U109",
+    "recommendations": [
+      {
+        "product_id": "P048",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P045",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U110",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P001",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P089",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U111",
+    "recommendations": [
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P010",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U112",
+    "recommendations": [
+      {
+        "product_id": "P007",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P018",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P020",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U113",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P096",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U114",
+    "recommendations": [
+      {
+        "product_id": "P049",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P093",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P014",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U115",
+    "recommendations": [
+      {
+        "product_id": "P072",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P062",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P024",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U116",
+    "recommendations": [
+      {
+        "product_id": "P039",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P080",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P030",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U117",
+    "recommendations": [
+      {
+        "product_id": "P002",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P023",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U118",
+    "recommendations": [
+      {
+        "product_id": "P088",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P004",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P049",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U119",
+    "recommendations": [
+      {
+        "product_id": "P042",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P033",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U120",
+    "recommendations": [
+      {
+        "product_id": "P032",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P044",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P083",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U121",
+    "recommendations": [
+      {
+        "product_id": "P011",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P017",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P073",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U122",
+    "recommendations": [
+      {
+        "product_id": "P093",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P098",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P089",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U123",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P016",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P026",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U124",
+    "recommendations": [
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P061",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P084",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U125",
+    "recommendations": [
+      {
+        "product_id": "P048",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P062",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P017",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U126",
+    "recommendations": [
+      {
+        "product_id": "P092",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P089",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P094",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U127",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P045",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P092",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U128",
+    "recommendations": [
+      {
+        "product_id": "P093",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P082",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U129",
+    "recommendations": [
+      {
+        "product_id": "P083",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P032",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P050",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U130",
+    "recommendations": [
+      {
+        "product_id": "P016",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P072",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U131",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P014",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P013",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U132",
+    "recommendations": [
+      {
+        "product_id": "P054",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P005",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P081",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U133",
+    "recommendations": [
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P073",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P020",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U134",
+    "recommendations": [
+      {
+        "product_id": "P016",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P023",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U135",
+    "recommendations": [
+      {
+        "product_id": "P048",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P045",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P008",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U137",
+    "recommendations": [
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P031",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P042",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U138",
+    "recommendations": [
+      {
+        "product_id": "P058",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P012",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U139",
+    "recommendations": [
+      {
+        "product_id": "P007",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P017",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U140",
+    "recommendations": [
+      {
+        "product_id": "P023",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P084",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P078",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U141",
+    "recommendations": [
+      {
+        "product_id": "P053",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P016",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P018",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U142",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P088",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P017",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U143",
+    "recommendations": [
+      {
+        "product_id": "P093",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P016",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P071",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U144",
+    "recommendations": [
+      {
+        "product_id": "P068",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P042",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P049",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U145",
+    "recommendations": [
+      {
+        "product_id": "P094",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P039",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U146",
+    "recommendations": [
+      {
+        "product_id": "P067",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P048",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U147",
+    "recommendations": [
+      {
+        "product_id": "P089",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P078",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U148",
+    "recommendations": [
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P080",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P082",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U149",
+    "recommendations": [
+      {
+        "product_id": "P064",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P071",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P006",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U150",
+    "recommendations": [
+      {
+        "product_id": "P068",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P002",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P017",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U151",
+    "recommendations": [
+      {
+        "product_id": "P028",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P013",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P042",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U152",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P032",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P064",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U153",
+    "recommendations": [
+      {
+        "product_id": "P027",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P045",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P026",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U154",
+    "recommendations": [
+      {
+        "product_id": "P016",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P024",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U155",
+    "recommendations": [
+      {
+        "product_id": "P089",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P042",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P020",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U156",
+    "recommendations": [
+      {
+        "product_id": "P061",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P048",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P064",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U157",
+    "recommendations": [
+      {
+        "product_id": "P002",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P027",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P012",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U158",
+    "recommendations": [
+      {
+        "product_id": "P062",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P023",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P007",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U159",
+    "recommendations": [
+      {
+        "product_id": "P092",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P015",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P020",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U160",
+    "recommendations": [
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P018",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P024",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U161",
+    "recommendations": [
+      {
+        "product_id": "P081",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U162",
+    "recommendations": [
+      {
+        "product_id": "P027",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P039",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P072",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U163",
+    "recommendations": [
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P033",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U164",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P058",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P018",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U165",
+    "recommendations": [
+      {
+        "product_id": "P013",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P016",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P010",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U166",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P072",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P092",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U167",
+    "recommendations": [
+      {
+        "product_id": "P053",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P048",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P058",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U168",
+    "recommendations": [
+      {
+        "product_id": "P023",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P021",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P011",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U169",
+    "recommendations": [
+      {
+        "product_id": "P082",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P083",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P047",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U170",
+    "recommendations": [
+      {
+        "product_id": "P024",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P011",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P012",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U171",
+    "recommendations": [
+      {
+        "product_id": "P060",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P014",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P015",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U172",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P066",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P064",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U173",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P017",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P013",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U174",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P041",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P088",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U175",
+    "recommendations": [
+      {
+        "product_id": "P024",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P054",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P089",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U176",
+    "recommendations": [
+      {
+        "product_id": "P011",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P084",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P083",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U177",
+    "recommendations": [
+      {
+        "product_id": "P045",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P039",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P032",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U178",
+    "recommendations": [
+      {
+        "product_id": "P094",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P054",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P013",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U179",
+    "recommendations": [
+      {
+        "product_id": "P094",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P064",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U180",
+    "recommendations": [
+      {
+        "product_id": "P089",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P092",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U181",
+    "recommendations": [
+      {
+        "product_id": "P003",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P050",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P022",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U182",
+    "recommendations": [
+      {
+        "product_id": "P010",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P001",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U183",
+    "recommendations": [
+      {
+        "product_id": "P093",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P058",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P020",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U184",
+    "recommendations": [
+      {
+        "product_id": "P058",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P011",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U185",
+    "recommendations": [
+      {
+        "product_id": "P064",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P067",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P072",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U186",
+    "recommendations": [
+      {
+        "product_id": "P059",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P066",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P064",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U187",
+    "recommendations": [
+      {
+        "product_id": "P020",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P084",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P094",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U188",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P078",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U189",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P020",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P038",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U190",
+    "recommendations": [
+      {
+        "product_id": "P020",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P038",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P039",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U191",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P066",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P052",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U192",
+    "recommendations": [
+      {
+        "product_id": "P089",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P038",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P048",
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U193",
+    "recommendations": [
+      {
+        "product_id": "P092",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P028",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P053",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U194",
+    "recommendations": [
+      {
+        "product_id": "P020",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P055",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P053",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U195",
+    "recommendations": [
+      {
+        "product_id": "P023",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P042",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P058",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U196",
+    "recommendations": [
+      {
+        "product_id": "P051",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P049",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P023",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U197",
+    "recommendations": [
+      {
+        "product_id": "P062",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P055",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P089",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U198",
+    "recommendations": [
+      {
+        "product_id": "P062",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P067",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P082",
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U199",
+    "recommendations": [
+      {
+        "product_id": "P066",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P007",
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P014",
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U200",
+    "recommendations": [
+      {
+        "product_id": "P013",
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P039",
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P071",
+        "reason": "browsing_history"
+      }
+    ]
+  }
+]

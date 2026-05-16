@@ -1,0 +1,1047 @@
+[
+  {
+    "user_id": "U008",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "score": 0.66,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P020",
+        "score": 0.55,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P023",
+        "score": 0.55,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P051",
+        "score": 0.54,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P017",
+        "score": 0.52,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P021",
+        "score": 0.52,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P069",
+        "score": 0.52,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P068",
+        "score": 0.51,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P048",
+        "score": 0.51,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U009",
+    "recommendations": [
+      {
+        "product_id": "P052",
+        "score": 0.82,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P045",
+        "score": 0.63,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P055",
+        "score": 0.58,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P080",
+        "score": 0.56,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P079",
+        "score": 0.54,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P053",
+        "score": 0.5,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P081",
+        "score": 0.43,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P058",
+        "score": 0.43,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P072",
+        "score": 0.42,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P057",
+        "score": 0.41,
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U010",
+    "recommendations": [
+      {
+        "product_id": "P077",
+        "score": 0.75,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P039",
+        "score": 0.66,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P095",
+        "score": 0.61,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "score": 0.59,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P078",
+        "score": 0.57,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P084",
+        "score": 0.56,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P007",
+        "score": 0.54,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P076",
+        "score": 0.49,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P036",
+        "score": 0.49,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P100",
+        "score": 0.48,
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U025",
+    "recommendations": [
+      {
+        "product_id": "P012",
+        "score": 0.6,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P088",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P013",
+        "score": 0.59,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P041",
+        "score": 0.58,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P004",
+        "score": 0.57,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P024",
+        "score": 0.4,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P044",
+        "score": 0.4,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P049",
+        "score": 0.4,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P050",
+        "score": 0.4,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P065",
+        "score": 0.4,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U026",
+    "recommendations": [
+      {
+        "product_id": "P080",
+        "score": 0.78,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P023",
+        "score": 0.73,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P083",
+        "score": 0.72,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P052",
+        "score": 0.72,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P084",
+        "score": 0.72,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P051",
+        "score": 0.71,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P017",
+        "score": 0.7,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P076",
+        "score": 0.69,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P064",
+        "score": 0.67,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P048",
+        "score": 0.66,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U029",
+    "recommendations": [
+      {
+        "product_id": "P084",
+        "score": 0.74,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P051",
+        "score": 0.73,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P080",
+        "score": 0.73,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P013",
+        "score": 0.71,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P032",
+        "score": 0.7,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "score": 0.66,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P005",
+        "score": 0.65,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P042",
+        "score": 0.64,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P078",
+        "score": 0.64,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P076",
+        "score": 0.64,
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U031",
+    "recommendations": [
+      {
+        "product_id": "P043",
+        "score": 0.69,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P010",
+        "score": 0.53,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P052",
+        "score": 0.52,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P062",
+        "score": 0.52,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P080",
+        "score": 0.52,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P032",
+        "score": 0.52,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P051",
+        "score": 0.51,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P013",
+        "score": 0.45,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P038",
+        "score": 0.45,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P088",
+        "score": 0.44,
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U038",
+    "recommendations": [
+      {
+        "product_id": "P038",
+        "score": 0.71,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P005",
+        "score": 0.66,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P039",
+        "score": 0.6,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P064",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P083",
+        "score": 0.58,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P013",
+        "score": 0.57,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P011",
+        "score": 0.56,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P055",
+        "score": 0.5,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P058",
+        "score": 0.5,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P062",
+        "score": 0.5,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U058",
+    "recommendations": [
+      {
+        "product_id": "P083",
+        "score": 0.69,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P088",
+        "score": 0.68,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P098",
+        "score": 0.65,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P095",
+        "score": 0.64,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P042",
+        "score": 0.63,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P055",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P068",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P089",
+        "score": 0.58,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P039",
+        "score": 0.57,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P041",
+        "score": 0.56,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U060",
+    "recommendations": [
+      {
+        "product_id": "P094",
+        "score": 0.74,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P092",
+        "score": 0.74,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P043",
+        "score": 0.73,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P093",
+        "score": 0.67,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P054",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P089",
+        "score": 0.59,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P055",
+        "score": 0.55,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P081",
+        "score": 0.53,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P032",
+        "score": 0.51,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P031",
+        "score": 0.51,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U065",
+    "recommendations": [
+      {
+        "product_id": "P080",
+        "score": 0.73,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P068",
+        "score": 0.72,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P016",
+        "score": 0.71,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P058",
+        "score": 0.7,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P020",
+        "score": 0.66,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P059",
+        "score": 0.64,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P062",
+        "score": 0.63,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P042",
+        "score": 0.61,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P075",
+        "score": 0.6,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P082",
+        "score": 0.6,
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U074",
+    "recommendations": [
+      {
+        "product_id": "P042",
+        "score": 0.76,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P067",
+        "score": 0.75,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P072",
+        "score": 0.75,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P079",
+        "score": 0.7,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P062",
+        "score": 0.68,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P064",
+        "score": 0.67,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P065",
+        "score": 0.66,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P082",
+        "score": 0.66,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P030",
+        "score": 0.63,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P052",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U112",
+    "recommendations": [
+      {
+        "product_id": "P007",
+        "score": 0.6,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P052",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P012",
+        "score": 0.58,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P081",
+        "score": 0.56,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P018",
+        "score": 0.48,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P055",
+        "score": 0.48,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P079",
+        "score": 0.46,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P006",
+        "score": 0.42,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P020",
+        "score": 0.42,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P058",
+        "score": 0.42,
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U144",
+    "recommendations": [
+      {
+        "product_id": "P012",
+        "score": 0.79,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P080",
+        "score": 0.77,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P041",
+        "score": 0.74,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P067",
+        "score": 0.71,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P068",
+        "score": 0.71,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P032",
+        "score": 0.68,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P038",
+        "score": 0.6,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P021",
+        "score": 0.6,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P042",
+        "score": 0.59,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P049",
+        "score": 0.59,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U156",
+    "recommendations": [
+      {
+        "product_id": "P023",
+        "score": 0.81,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P062",
+        "score": 0.81,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P061",
+        "score": 0.81,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P048",
+        "score": 0.78,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P019",
+        "score": 0.61,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P020",
+        "score": 0.61,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P068",
+        "score": 0.61,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P039",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P042",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P064",
+        "score": 0.59,
+        "reason": "browsing_history"
+      }
+    ]
+  },
+  {
+    "user_id": "U168",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "score": 1.0,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P050",
+        "score": 0.62,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P023",
+        "score": 0.59,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P051",
+        "score": 0.59,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P017",
+        "score": 0.57,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P042",
+        "score": 0.54,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P009",
+        "score": 0.54,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P021",
+        "score": 0.54,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P011",
+        "score": 0.52,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P052",
+        "score": 0.52,
+        "reason": "category_affinity"
+      }
+    ]
+  },
+  {
+    "user_id": "U178",
+    "recommendations": [
+      {
+        "product_id": "P055",
+        "score": 0.72,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P088",
+        "score": 0.67,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P051",
+        "score": 0.61,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P064",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P068",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P019",
+        "score": 0.59,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P094",
+        "score": 0.59,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P054",
+        "score": 0.57,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P013",
+        "score": 0.5,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P032",
+        "score": 0.5,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U193",
+    "recommendations": [
+      {
+        "product_id": "P068",
+        "score": 0.9,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P039",
+        "score": 0.6,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P072",
+        "score": 0.58,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P023",
+        "score": 0.57,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P064",
+        "score": 0.57,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P092",
+        "score": 0.56,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P088",
+        "score": 0.55,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P028",
+        "score": 0.54,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P053",
+        "score": 0.48,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P081",
+        "score": 0.48,
+        "reason": "frequently_bought_together"
+      }
+    ]
+  },
+  {
+    "user_id": "U194",
+    "recommendations": [
+      {
+        "product_id": "P084",
+        "score": 0.78,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P050",
+        "score": 0.72,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P079",
+        "score": 0.67,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P058",
+        "score": 0.65,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P020",
+        "score": 0.64,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P026",
+        "score": 0.63,
+        "reason": "browsing_history"
+      },
+      {
+        "product_id": "P055",
+        "score": 0.61,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P080",
+        "score": 0.61,
+        "reason": "frequently_bought_together"
+      },
+      {
+        "product_id": "P039",
+        "score": 0.6,
+        "reason": "category_affinity"
+      },
+      {
+        "product_id": "P053",
+        "score": 0.6,
+        "reason": "browsing_history"
+      }
+    ]
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Wireless Headphones",
+    "category": "electronics",
+    "price": 51500.0,
+    "stock": 22,
+    "created_at": "2024-04-14"
+  },
+  {
+    "product_id": "P002",
+    "name": "Bluetooth Speaker",
+    "category": "electronics",
+    "price": 20300.0,
+    "stock": 81,
+    "created_at": "2024-07-11"
+  },
+  {
+    "product_id": "P003",
+    "name": "USB-C Hub",
+    "category": "electronics",
+    "price": 54500.0,
+    "stock": 466,
+    "created_at": "2023-11-27"
+  },
+  {
+    "product_id": "P004",
+    "name": "Mechanical Keyboard",
+    "category": "electronics",
+    "price": 7900.0,
+    "stock": 226,
+    "created_at": "2024-08-16"
+  },
+  {
+    "product_id": "P005",
+    "name": "Portable Charger",
+    "category": "electronics",
+    "price": 3400.0,
+    "stock": 121,
+    "created_at": "2024-05-05"
+  },
+  {
+    "product_id": "P006",
+    "name": "Smart Watch",
+    "category": "electronics",
+    "price": 40900.0,
+    "stock": 23,
+    "created_at": "2023-11-19"
+  },
+  {
+    "product_id": "P007",
+    "name": "Webcam HD",
+    "category": "electronics",
+    "price": 16700.0,
+    "stock": 342,
+    "created_at": "2023-11-27"
+  },
+  {
+    "product_id": "P008",
+    "name": "Wireless Mouse",
+    "category": "electronics",
+    "price": 34100.0,
+    "stock": 239,
+    "created_at": "2023-11-05"
+  },
+  {
+    "product_id": "P009",
+    "name": "Tablet Stand",
+    "category": "electronics",
+    "price": 23000.0,
+    "stock": 455,
+    "created_at": "2024-08-29"
+  },
+  {
+    "product_id": "P010",
+    "name": "LED Desk Lamp",
+    "category": "electronics",
+    "price": 60900.0,
+    "stock": 91,
+    "created_at": "2024-01-29"
+  },
+  {
+    "product_id": "P011",
+    "name": "Noise Cancelling Earbuds",
+    "category": "electronics",
+    "price": 27900.0,
+    "stock": 89,
+    "created_at": "2024-05-14"
+  },
+  {
+    "product_id": "P012",
+    "name": "HDMI Cable",
+    "category": "electronics",
+    "price": 76600.0,
+    "stock": 182,
+    "created_at": "2024-07-11"
+  },
+  {
+    "product_id": "P013",
+    "name": "External SSD 1TB",
+    "category": "electronics",
+    "price": 8300.0,
+    "stock": 59,
+    "created_at": "2024-03-02"
+  },
+  {
+    "product_id": "P014",
+    "name": "Monitor Arm",
+    "category": "electronics",
+    "price": 68000.0,
+    "stock": 319,
+    "created_at": "2024-04-19"
+  },
+  {
+    "product_id": "P015",
+    "name": "Phone Case",
+    "category": "electronics",
+    "price": 64800.0,
+    "stock": 383,
+    "created_at": "2024-01-10"
+  },
+  {
+    "product_id": "P016",
+    "name": "Cotton T-Shirt",
+    "category": "clothing",
+    "price": 16600.0,
+    "stock": 482,
+    "created_at": "2024-02-21"
+  },
+  {
+    "product_id": "P017",
+    "name": "Denim Jeans",
+    "category": "clothing",
+    "price": 3300.0,
+    "stock": 160,
+    "created_at": "2023-10-16"
+  },
+  {
+    "product_id": "P018",
+    "name": "Hoodie",
+    "category": "clothing",
+    "price": 18900.0,
+    "stock": 451,
+    "created_at": "2024-02-29"
+  },
+  {
+    "product_id": "P019",
+    "name": "Winter Jacket",
+    "category": "clothing",
+    "price": 17700.0,
+    "stock": 370,
+    "created_at": "2024-07-28"
+  },
+  {
+    "product_id": "P020",
+    "name": "Sneakers",
+    "category": "clothing",
+    "price": 2300.0,
+    "stock": 126,
+    "created_at": "2024-04-06"
+  },
+  {
+    "product_id": "P021",
+    "name": "Wool Scarf",
+    "category": "clothing",
+    "price": 29600.0,
+    "stock": 447,
+    "created_at": "2024-05-05"
+  },
+  {
+    "product_id": "P022",
+    "name": "Casual Shorts",
+    "category": "clothing",
+    "price": 26100.0,
+    "stock": 204,
+    "created_at": "2024-04-12"
+  },
+  {
+    "product_id": "P023",
+    "name": "Dress Shirt",
+    "category": "clothing",
+    "price": 14100.0,
+    "stock": 437,
+    "created_at": "2024-02-28"
+  },
+  {
+    "product_id": "P024",
+    "name": "Running Shoes",
+    "category": "clothing",
+    "price": 5700.0,
+    "stock": 191,
+    "created_at": "2024-05-17"
+  },
+  {
+    "product_id": "P025",
+    "name": "Baseball Cap",
+    "category": "clothing",
+    "price": 20400.0,
+    "stock": 369,
+    "created_at": "2023-10-06"
+  },
+  {
+    "product_id": "P026",
+    "name": "Socks Pack",
+    "category": "clothing",
+    "price": 3100.0,
+    "stock": 335,
+    "created_at": "2024-06-06"
+  },
+  {
+    "product_id": "P027",
+    "name": "Belt Leather",
+    "category": "clothing",
+    "price": 16500.0,
+    "stock": 135,
+    "created_at": "2024-06-10"
+  },
+  {
+    "product_id": "P028",
+    "name": "Rain Coat",
+    "category": "clothing",
+    "price": 14400.0,
+    "stock": 148,
+    "created_at": "2023-10-10"
+  },
+  {
+    "product_id": "P029",
+    "name": "Polo Shirt",
+    "category": "clothing",
+    "price": 21000.0,
+    "stock": 122,
+    "created_at": "2024-03-19"
+  },
+  {
+    "product_id": "P030",
+    "name": "Cardigan",
+    "category": "clothing",
+    "price": 25400.0,
+    "stock": 407,
+    "created_at": "2024-08-04"
+  },
+  {
+    "product_id": "P031",
+    "name": "Organic Green Tea",
+    "category": "food",
+    "price": 1300.0,
+    "stock": 26,
+    "created_at": "2024-03-24"
+  },
+  {
+    "product_id": "P032",
+    "name": "Rice 5kg",
+    "category": "food",
+    "price": 2130.0,
+    "stock": 43,
+    "created_at": "2024-05-16"
+  },
+  {
+    "product_id": "P033",
+    "name": "Instant Ramen Pack",
+    "category": "food",
+    "price": 4580.0,
+    "stock": 300,
+    "created_at": "2024-03-24"
+  },
+  {
+    "product_id": "P034",
+    "name": "Soy Sauce 1L",
+    "category": "food",
+    "price": 1220.0,
+    "stock": 265,
+    "created_at": "2024-02-12"
+  },
+  {
+    "product_id": "P035",
+    "name": "Matcha Powder",
+    "category": "food",
+    "price": 4450.0,
+    "stock": 339,
+    "created_at": "2024-01-11"
+  },
+  {
+    "product_id": "P036",
+    "name": "Dried Seaweed",
+    "category": "food",
+    "price": 890.0,
+    "stock": 81,
+    "created_at": "2024-04-28"
+  },
+  {
+    "product_id": "P037",
+    "name": "Miso Paste",
+    "category": "food",
+    "price": 3780.0,
+    "stock": 285,
+    "created_at": "2024-04-20"
+  },
+  {
+    "product_id": "P038",
+    "name": "Wasabi Tube",
+    "category": "food",
+    "price": 3790.0,
+    "stock": 229,
+    "created_at": "2023-11-08"
+  },
+  {
+    "product_id": "P039",
+    "name": "Udon Noodles",
+    "category": "food",
+    "price": 2120.0,
+    "stock": 122,
+    "created_at": "2024-06-23"
+  },
+  {
+    "product_id": "P040",
+    "name": "Japanese Curry",
+    "category": "food",
+    "price": 2650.0,
+    "stock": 56,
+    "created_at": "2024-08-08"
+  },
+  {
+    "product_id": "P041",
+    "name": "Pocky Chocolate",
+    "category": "food",
+    "price": 4330.0,
+    "stock": 88,
+    "created_at": "2023-10-16"
+  },
+  {
+    "product_id": "P042",
+    "name": "Mochi Set",
+    "category": "food",
+    "price": 970.0,
+    "stock": 358,
+    "created_at": "2024-01-29"
+  },
+  {
+    "product_id": "P043",
+    "name": "Sencha Tea Bags",
+    "category": "food",
+    "price": 3060.0,
+    "stock": 207,
+    "created_at": "2024-02-19"
+  },
+  {
+    "product_id": "P044",
+    "name": "Pickled Ginger",
+    "category": "food",
+    "price": 3060.0,
+    "stock": 249,
+    "created_at": "2023-12-06"
+  },
+  {
+    "product_id": "P045",
+    "name": "Python Programming",
+    "category": "books",
+    "price": 1630.0,
+    "stock": 293,
+    "created_at": "2024-08-27"
+  },
+  {
+    "product_id": "P046",
+    "name": "Data Science Handbook",
+    "category": "books",
+    "price": 3560.0,
+    "stock": 68,
+    "created_at": "2023-12-02"
+  },
+  {
+    "product_id": "P047",
+    "name": "Machine Learning Guide",
+    "category": "books",
+    "price": 3880.0,
+    "stock": 403,
+    "created_at": "2023-10-09"
+  },
+  {
+    "product_id": "P048",
+    "name": "Japanese History",
+    "category": "books",
+    "price": 2030.0,
+    "stock": 160,
+    "created_at": "2024-01-23"
+  },
+  {
+    "product_id": "P049",
+    "name": "Manga Collection Vol.1",
+    "category": "books",
+    "price": 1210.0,
+    "stock": 11,
+    "created_at": "2024-04-20"
+  },
+  {
+    "product_id": "P050",
+    "name": "Business Strategy",
+    "category": "books",
+    "price": 4870.0,
+    "stock": 400,
+    "created_at": "2024-06-02"
+  },
+  {
+    "product_id": "P051",
+    "name": "Cooking Recipes",
+    "category": "books",
+    "price": 2780.0,
+    "stock": 64,
+    "created_at": "2023-10-17"
+  },
+  {
+    "product_id": "P052",
+    "name": "Travel Japan",
+    "category": "books",
+    "price": 1840.0,
+    "stock": 337,
+    "created_at": "2023-12-17"
+  },
+  {
+    "product_id": "P053",
+    "name": "Fiction Novel",
+    "category": "books",
+    "price": 3240.0,
+    "stock": 88,
+    "created_at": "2024-02-23"
+  },
+  {
+    "product_id": "P054",
+    "name": "Self-Help Guide",
+    "category": "books",
+    "price": 3930.0,
+    "stock": 286,
+    "created_at": "2023-12-05"
+  },
+  {
+    "product_id": "P055",
+    "name": "Economics 101",
+    "category": "books",
+    "price": 4630.0,
+    "stock": 316,
+    "created_at": "2024-03-20"
+  },
+  {
+    "product_id": "P056",
+    "name": "Art of Design",
+    "category": "books",
+    "price": 2700.0,
+    "stock": 67,
+    "created_at": "2024-02-29"
+  },
+  {
+    "product_id": "P057",
+    "name": "Philosophy Intro",
+    "category": "books",
+    "price": 4450.0,
+    "stock": 435,
+    "created_at": "2024-03-28"
+  },
+  {
+    "product_id": "P058",
+    "name": "Math Puzzles",
+    "category": "books",
+    "price": 1580.0,
+    "stock": 133,
+    "created_at": "2023-11-16"
+  },
+  {
+    "product_id": "P059",
+    "name": "Ceramic Mug Set",
+    "category": "home",
+    "price": 47400.0,
+    "stock": 53,
+    "created_at": "2023-12-28"
+  },
+  {
+    "product_id": "P060",
+    "name": "Bath Towel Set",
+    "category": "home",
+    "price": 40900.0,
+    "stock": 399,
+    "created_at": "2023-12-04"
+  },
+  {
+    "product_id": "P061",
+    "name": "Scented Candle",
+    "category": "home",
+    "price": 38400.0,
+    "stock": 75,
+    "created_at": "2024-01-02"
+  },
+  {
+    "product_id": "P062",
+    "name": "Storage Box",
+    "category": "home",
+    "price": 47400.0,
+    "stock": 94,
+    "created_at": "2024-04-19"
+  },
+  {
+    "product_id": "P063",
+    "name": "Kitchen Timer",
+    "category": "home",
+    "price": 26600.0,
+    "stock": 320,
+    "created_at": "2024-01-29"
+  },
+  {
+    "product_id": "P064",
+    "name": "Cutting Board",
+    "category": "home",
+    "price": 48200.0,
+    "stock": 485,
+    "created_at": "2023-11-30"
+  },
+  {
+    "product_id": "P065",
+    "name": "Vacuum Cleaner",
+    "category": "home",
+    "price": 37900.0,
+    "stock": 363,
+    "created_at": "2024-05-22"
+  },
+  {
+    "product_id": "P066",
+    "name": "Air Purifier",
+    "category": "home",
+    "price": 35800.0,
+    "stock": 214,
+    "created_at": "2023-10-05"
+  },
+  {
+    "product_id": "P067",
+    "name": "Humidifier",
+    "category": "home",
+    "price": 19000.0,
+    "stock": 470,
+    "created_at": "2023-12-12"
+  },
+  {
+    "product_id": "P068",
+    "name": "Cushion Cover",
+    "category": "home",
+    "price": 22800.0,
+    "stock": 136,
+    "created_at": "2024-05-09"
+  },
+  {
+    "product_id": "P069",
+    "name": "Wall Clock",
+    "category": "home",
+    "price": 3700.0,
+    "stock": 20,
+    "created_at": "2023-11-05"
+  },
+  {
+    "product_id": "P070",
+    "name": "Plant Pot",
+    "category": "home",
+    "price": 27900.0,
+    "stock": 311,
+    "created_at": "2024-05-12"
+  },
+  {
+    "product_id": "P071",
+    "name": "Laundry Basket",
+    "category": "home",
+    "price": 900.0,
+    "stock": 372,
+    "created_at": "2023-10-14"
+  },
+  {
+    "product_id": "P072",
+    "name": "Dish Rack",
+    "category": "home",
+    "price": 3400.0,
+    "stock": 44,
+    "created_at": "2024-08-16"
+  },
+  {
+    "product_id": "P073",
+    "name": "Yoga Mat",
+    "category": "sports",
+    "price": 17300.0,
+    "stock": 46,
+    "created_at": "2023-12-13"
+  },
+  {
+    "product_id": "P074",
+    "name": "Dumbbell Set",
+    "category": "sports",
+    "price": 5100.0,
+    "stock": 352,
+    "created_at": "2023-12-28"
+  },
+  {
+    "product_id": "P075",
+    "name": "Jump Rope",
+    "category": "sports",
+    "price": 4700.0,
+    "stock": 77,
+    "created_at": "2023-11-14"
+  },
+  {
+    "product_id": "P076",
+    "name": "Water Bottle 1L",
+    "category": "sports",
+    "price": 11700.0,
+    "stock": 134,
+    "created_at": "2024-01-03"
+  },
+  {
+    "product_id": "P077",
+    "name": "Resistance Bands",
+    "category": "sports",
+    "price": 16200.0,
+    "stock": 107,
+    "created_at": "2024-07-15"
+  },
+  {
+    "product_id": "P078",
+    "name": "Tennis Balls",
+    "category": "sports",
+    "price": 2400.0,
+    "stock": 230,
+    "created_at": "2024-03-04"
+  },
+  {
+    "product_id": "P079",
+    "name": "Running Armband",
+    "category": "sports",
+    "price": 8800.0,
+    "stock": 249,
+    "created_at": "2024-08-05"
+  },
+  {
+    "product_id": "P080",
+    "name": "Gym Bag",
+    "category": "sports",
+    "price": 13600.0,
+    "stock": 340,
+    "created_at": "2024-07-13"
+  },
+  {
+    "product_id": "P081",
+    "name": "Foam Roller",
+    "category": "sports",
+    "price": 1700.0,
+    "stock": 382,
+    "created_at": "2024-03-12"
+  },
+  {
+    "product_id": "P082",
+    "name": "Fitness Tracker Band",
+    "category": "sports",
+    "price": 16100.0,
+    "stock": 65,
+    "created_at": "2024-04-27"
+  },
+  {
+    "product_id": "P083",
+    "name": "Swim Goggles",
+    "category": "sports",
+    "price": 4200.0,
+    "stock": 284,
+    "created_at": "2024-01-16"
+  },
+  {
+    "product_id": "P084",
+    "name": "Badminton Set",
+    "category": "sports",
+    "price": 3200.0,
+    "stock": 103,
+    "created_at": "2024-04-12"
+  },
+  {
+    "product_id": "P085",
+    "name": "Cycling Gloves",
+    "category": "sports",
+    "price": 9500.0,
+    "stock": 457,
+    "created_at": "2024-07-25"
+  },
+  {
+    "product_id": "P086",
+    "name": "Sport Towel",
+    "category": "sports",
+    "price": 9100.0,
+    "stock": 451,
+    "created_at": "2023-11-25"
+  },
+  {
+    "product_id": "P087",
+    "name": "Face Moisturizer",
+    "category": "beauty",
+    "price": 1250.0,
+    "stock": 343,
+    "created_at": "2023-11-30"
+  },
+  {
+    "product_id": "P088",
+    "name": "Sunscreen SPF50",
+    "category": "beauty",
+    "price": 8410.0,
+    "stock": 57,
+    "created_at": "2024-05-03"
+  },
+  {
+    "product_id": "P089",
+    "name": "Lip Balm Set",
+    "category": "beauty",
+    "price": 1910.0,
+    "stock": 258,
+    "created_at": "2023-12-30"
+  },
+  {
+    "product_id": "P090",
+    "name": "Hand Cream",
+    "category": "beauty",
+    "price": 2370.0,
+    "stock": 215,
+    "created_at": "2024-08-02"
+  },
+  {
+    "product_id": "P091",
+    "name": "Sheet Mask Pack",
+    "category": "beauty",
+    "price": 1900.0,
+    "stock": 11,
+    "created_at": "2024-02-15"
+  },
+  {
+    "product_id": "P092",
+    "name": "Hair Oil",
+    "category": "beauty",
+    "price": 2870.0,
+    "stock": 411,
+    "created_at": "2024-01-13"
+  },
+  {
+    "product_id": "P093",
+    "name": "Body Lotion",
+    "category": "beauty",
+    "price": 3070.0,
+    "stock": 366,
+    "created_at": "2023-11-22"
+  },
+  {
+    "product_id": "P094",
+    "name": "Nail Polish Set",
+    "category": "beauty",
+    "price": 6720.0,
+    "stock": 259,
+    "created_at": "2024-06-14"
+  },
+  {
+    "product_id": "P095",
+    "name": "Eye Cream",
+    "category": "beauty",
+    "price": 2140.0,
+    "stock": 121,
+    "created_at": "2024-08-03"
+  },
+  {
+    "product_id": "P096",
+    "name": "Facial Cleanser",
+    "category": "beauty",
+    "price": 5920.0,
+    "stock": 287,
+    "created_at": "2024-08-01"
+  },
+  {
+    "product_id": "P097",
+    "name": "Toner 200ml",
+    "category": "beauty",
+    "price": 7560.0,
+    "stock": 39,
+    "created_at": "2024-08-07"
+  },
+  {
+    "product_id": "P098",
+    "name": "Serum Vitamin C",
+    "category": "beauty",
+    "price": 5970.0,
+    "stock": 267,
+    "created_at": "2023-12-05"
+  },
+  {
+    "product_id": "P099",
+    "name": "Makeup Remover",
+    "category": "beauty",
+    "price": 1830.0,
+    "stock": 270,
+    "created_at": "2024-07-22"
+  },
+  {
+    "product_id": "P100",
+    "name": "Perfume Mini",
+    "category": "beauty",
+    "price": 8560.0,
+    "stock": 45,
+    "created_at": "2023-11-02"
+  }
+]
