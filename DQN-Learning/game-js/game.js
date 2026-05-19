@@ -80,10 +80,10 @@ function initBlocks() {
 function resetGame() {
     ball.x = canvas.width / 2;
     // ball.x = paddle.x + (paddle.width / 2);
-    ball.y = canvas.height - (paddle.height + ball.radius * 3);
-    // ball.y = canvas.height / 2;
+    // ball.y = canvas.height - (paddle.height + ball.radius * 3);
+    ball.y = canvas.height / 3;
 
-    const angle = (Math.PI / 4) + Math.random() * (Math.PI / 2) + Math.PI;
+    const angle = (Math.PI / 3) + Math.random() * (Math.PI / 3);
     ball.dx = Math.cos(angle);
     ball.dy = Math.sin(angle);
     initBlocks();

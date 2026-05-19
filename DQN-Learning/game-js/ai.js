@@ -119,7 +119,7 @@ async function train(gamma, learningRate, batchSize = 128) {
     const states = tf.tensor2d(batch.map(d => d.state));//batchの中のstateだけを取り出してテンソルに変換
     const nextStates = tf.tensor2d(batch.map(d => d.nextState));//batchの中のNectStateだけを取り出してテンソルに変換
 
-    const currentQs = mainModel.predict(states);//predict()はテンソルメソッドで左0.5、静止0.1、右0.8のように行動ごとのQ値を計算してくれる
+    const currentQs = model.predict(states);//predict()はテンソルメソッドで左0.5、静止0.1、右0.8のように行動ごとのQ値を計算してくれる
     const nextQs = targetModel.predict(nextStates);//nextQsをtargetModelで計算するのは直近の調整の影響を受けすぎないように
 
     const nextQsData = await nextQs.array();//計算のために配列に戻す
@@ -183,7 +183,7 @@ function decideAction(state) {//引数はcurrentState状況A
         const stateTensor = tf.tensor2d([state]);//状況Aをテンソルに変換
 
         // メインモデルで行動を決定
-        const prediction = mainModel.predict(stateTensor);//predict()で状況AのQ値をメインネットワークで計算 例:左0.5、静止0.1、右0.8
+        const prediction = model.predict(stateTensor);//predict()で状況AのQ値をメインネットワークで計算 例:左0.5、静止0.1、右0.8
         // trainメソッドとやっていることは同じで、predictは2次配列で渡さないといけなく、今回は入力値1セットの1次配列だから[]で囲って2次配列にしている
 
         // モニター用モデルでニューロン状態を抜き出す
