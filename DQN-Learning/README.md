@@ -53,7 +53,3 @@
     ├── how-to-play.html  # 遊び方画面
     ├── explanation.html  # DQN学習解説画面
     └── explanation.js    # 解説画面のテキスト描写ロジック
-
-- `index.html` : メイン画面
-- `game-js/` : ゲームの物理演算や描画ロジック、AI（DQN）のネットワーク定義
-- `etc/` : カーソルデザインや解説画面（explanation）のロジック
