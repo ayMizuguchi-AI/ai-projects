@@ -1,4 +1,4 @@
 # virtual-chat
 
 ## 🎬 デモ動画
-![デモ動画](./バーチャルチャット.gif)
+![デモ動画](<./sample image/virtual-chat.mp4>)
