@@ -1,5 +1,5 @@
 # virtual-chat  
-ブラウザ上で3Dアバター（VRM）とリアルタイムに音声・テキストで対話ができる、AIエージェントシステムです。
+ブラウザ上で自分で作成したVRoidStudioの3Dアバター（VRM）、COEIROINKの音声モデルとリアルタイムに音声・テキストで対話ができる、AIエージェントシステムです。
 
 ## デモ動画
 ![デモ動画](./sample-image/virtual-chat.gif)
