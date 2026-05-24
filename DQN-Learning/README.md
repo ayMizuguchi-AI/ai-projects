@@ -2,9 +2,7 @@
 
 ブラウザ上でAI（DQN: Deep Q-Network）学習でブロック崩しを学習していく過程を、リアルタイムで観察、調整できるWebアプリケーションです。  
 
-<video src="sample-image/DQN-Learning.gif" width="100%" loop muted autoplay playsinline></video>
-
-![解説ページのイメージ画像](<sample-image/DQN-Learning.gif>)
+![ブロック崩しのイメージ画像](<sample-image/DQN-Learning.gif>)
 ![解説ページのイメージ画像](<sample-image/smple.jpg>)
 ## 機能・特徴
 - **学習シミュレーション**
