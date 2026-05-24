@@ -62,3 +62,5 @@ python app.py
 ```
 
 3. ブラウザで `index.html` を開きます。
+
+## こだわった点
