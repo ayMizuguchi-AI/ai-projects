@@ -6,3 +6,5 @@ https://github.com/user-attachments/assets/7dcfd610-3613-4a9e-8eee-95992f6d26e1
 
 ## 🎬 デモ動画
 ![デモ動画](<./sample-image/virtual-chat.mp4>)
+
+<video src="sample-image/virtual-chat.mp4" width="100%" loop muted autoplay playsinline></video>
