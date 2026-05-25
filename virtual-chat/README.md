@@ -34,7 +34,16 @@
 
 ## ディレクトリ構成
 主要なファイル構成は以下の通りです。
-
+```text
+virtual-chat/
+├── app.py              # Flask バックエンドサーバー（Gemini・COEIROINK連携）
+├── index.html          # メイン画面（UI・音声認識）
+├── main.js             # フロントエンド主要ロジック（Three.js・VRM制御・Web Audio）
+├── style.css           # スタイリング
+├── etc                 #
+├── .env.example        # 環境変数のテンプレート
+├── .gitignore          # Git管理除外設定（.env等を秘匿化）
+```
 
 ## 動作環境・使用技術
 
