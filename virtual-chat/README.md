@@ -40,7 +40,7 @@ virtual-chat/
 ├── index.html          # メイン画面（UI・音声認識）
 ├── main.js             # フロントエンド主要ロジック（Three.js・VRM制御・Web Audio）
 ├── style.css           # スタイリング
-├── etc                 #
+├── etc                 # 3Dアバター（VRMファイル）や背景など
 ├── .env.example        # 環境変数のテンプレート
 ├── .gitignore          # Git管理除外設定（.env等を秘匿化）
 ```
