@@ -9,15 +9,12 @@ SFや近未来の世界観が好きでAIに魅力を感じたことから、AI�
 
 ### [1. DQN-Learning（強化学習シミュレーション）](./DQN-Learning)
 TensorFlow.jsを用いて、AIがブロック崩しを学習する過程を可視化しました。ブラックボックスなAIの脳内（ニューロン）を直感的に見ることができるモニターを実装しました。
-[最高100倍速のシミュレーションとUIのこだわりはこちら](./DQN-Learning)
 
-### 2. virtual-chat（AIエージェントシステム）
+### [2. virtual-chat（AIエージェントシステム）](./virtual-chat)
 3Dアバターと音声モデルを使い、実際に会話ができるシステムを制作しました。Three.jsとWeb Audio APIによるリアルタイムな3Dボーン制御とリップシンク（口パク）で人間らしい動きを再現しました。
-[AIの思考待ち時間を削るUXの工夫など、詳細はこちら](./virtual-chat)
 
-### 3. Anomaly Detection Pipeline（不正探知データパイプライン）
+### [3. Anomaly Detection Pipeline（不正探知データパイプライン）](./anomaly-detection-pipeline)
 ECサイトの注文・アクセスログから、Botや不正組織の行動パターンを検知。ルールベースとRandomForestを組み合わせ、ドメイン知識に基づく特徴量エンジニアリングを行いました。
-[過学習を防ぐための検証プロセス（test-main.py）など詳細はこちら](./anomaly-detection-pipeline)
 *(※NDAの観点から中核ロジックのみ公開)*
 
 ---
