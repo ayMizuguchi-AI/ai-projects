@@ -22,7 +22,7 @@ ECサイトの注文・アクセスログから、Botや不正組織の行動パ
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages:** JavaScript (ES6+ / Vanilla), HTML5/CSS3, Python 3.x
 - **AI / ML:** TensorFlow.js, scikit-learn, Gemini API
 - **Frontend:** Three.js, @pixiv/three-vrm, Web Audio API, Web Speech API
