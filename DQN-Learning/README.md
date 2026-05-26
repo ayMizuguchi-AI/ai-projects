@@ -10,7 +10,7 @@
 ### 解説ページ
 ![解説ページのイメージ画像](<sample-image/smple.jpg>)
 
-> **🔗 [ブラウザで実際にAIを動かしてみる（デモサイト）](https://aymizuguchi-ai.github.io/ai-projects/DQN-Learning/)**
+> **🔗 [ブラウザで実際にAIを動かしてみる（デモサイト）](https://aymizuguchi-ai.github.io/ai-projects/DQN-Learning/)**  
 > ※ダウンロードや環境構築なしで、今すぐブラウザ上でAIの学習シミュレーションを実行できます。
 
 ## 機能・特徴
