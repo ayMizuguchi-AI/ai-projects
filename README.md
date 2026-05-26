@@ -1,1 +1,29 @@
-# ai-projects
+# Portfolio / Created Projects
+
+SFや近未来の世界観が好きでAIに魅力を感じたことから、AIを取り入れたプログラミングを始めました。
+以下は様々な機械学習をテーマに開発したプロジェクトです。
+
+---
+
+## Projects
+
+### 1. DQN-Learning（強化学習シミュレーション）
+TensorFlow.jsを用いて、AIがブロック崩しを学習する過程を可視化。ブラックボックスなAIの脳内（ニューロン）を直感的に見ることができるモニターを実装しました。
+[最高100倍速のシミュレーションとUIのこだわりはこちら](./DQN-Learning)
+
+### 2. virtual-chat（AIエージェントシステム）
+3Dアバターと音声モデルを使い、実際に会話ができるシステムを制作しました。Three.jsとWeb Audio APIによるリアルタイムな3Dボーン制御とリップシンク（口パク）で人間らしい動きを再現しました。
+[AIの思考待ち時間を削るUXの工夫など、詳細はこちら](./virtual-chat)
+
+### 3. Anomaly Detection Pipeline（不正探知データパイプライン）
+ECサイトの注文・アクセスログから、Botや不正組織の行動パターンを検知。ルールベースとRandomForestを組み合わせ、ドメイン知識に基づく特徴量エンジニアリングを行いました。
+[過学習を防ぐための検証プロセス（test-main.py）など詳細はこちら](./anomaly-detection-pipeline)
+*(※NDAの観点から中核ロジックのみ公開)*
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** JavaScript (ES6+ / Vanilla), HTML5/CSS3, Python 3.x
+- **AI / ML:** TensorFlow.js, scikit-learn, Gemini API
+- **Frontend:** Three.js, @pixiv/three-vrm, Web Audio API, Web Speech API
+- **Backend / Data:** Flask, pandas, COEIROINK API
