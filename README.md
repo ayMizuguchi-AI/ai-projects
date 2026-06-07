@@ -16,7 +16,7 @@ TensorFlow.jsを用いて、AIがブロック崩しを学習する過程を可�
 ### [2. virtual-chat（AIエージェントシステム）](./virtual-chat)
 3Dアバターと音声モデルを使い、実際に会話ができるシステムを制作しました。Three.jsとWeb Audio APIによるリアルタイムな3Dボーン制御とリップシンク（口パク）で人間らしい動きを再現しました。
 
-### [3. Anomaly Detection Pipeline（不正探知データパイプライン）](./pipeline-challenge)
+### [3. 不正探知データパイプライン](./pipeline-challenge)
 ECサイトの注文・アクセスログから、Botや不正組織の行動パターンを検知。ルールベースとRandomForestを組み合わせ、ドメイン知識に基づく特徴量エンジニアリングを行いました。
 *(※NDAの観点から中核ロジックのみ公開)*
 
