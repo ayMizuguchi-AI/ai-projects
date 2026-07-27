@@ -7,6 +7,6 @@ Unity + ML-Agents (PPO) を用いた、プレイヤーが報酬と罰とマウ�
 ![キャットランのイメージ動画](<sample-image/CatRun.gif>)
 
 ## 3. 技術スタック（Tech Stack）
-- Unity (Ver X.X)
+- Unity6
 - Unity ML-Agents Toolkit (PPO)
 - Python / PyTorch
